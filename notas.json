@@ -1,5 +1,5 @@
 [
-  {"id": 1, "valor": 2000, "codigoAtividade": 3620 },
-  {"id": 2, "valor": 1500, "codigoAtividade": 3030 },
-  {"id": 3, "valor": 4000, "codigoAtividade": 7777 }
+  {"id": 1, "valor": 2000, "codigoServico": 3620 },
+  {"id": 2, "valor": 1500, "codigoServico": 3030 },
+  {"id": 3, "valor": 4000, "codigoServico": 7777 }
 ]
