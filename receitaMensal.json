@@ -1,3 +1,5 @@
 [
-  {"cnpj": "123456789012", "periodo": 202501, "receita": 2000, "codigoAtividade": 3620 }
+  {"id": 1, "valor": 2000, "codigoAtividade": 3620 },
+  {"id": 2, "valor": 1500, "codigoAtividade": 3030 },
+  {"id": 3, "valor": 4000, "codigoAtividade": 7777 }
 ]
